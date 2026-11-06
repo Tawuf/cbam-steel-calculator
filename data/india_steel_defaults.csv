@@ -1,0 +1,4 @@
+key,name,cn_code,india_default_tco2e_per_t,benchmark_tco2e_per_t
+pig_iron,Pig iron,7201,2.53,
+dri,Direct reduced iron (DRI),7203,4.20,
+hot_rolled_flat,Hot-rolled flat products,7208,4.28,1.370
