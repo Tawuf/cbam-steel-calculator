@@ -121,7 +121,6 @@ pytest -q
 
 ## Author
 
-**Md Tawuf Chowdhury**: MSc Information Systems (Uppsala University), B.Sc. Environmental and
-Resource Management (BTU Cottbus-Senftenberg). Built as part of my work on CBAM and India's steel exports.
+**Md Tawuf Chowdhury**: MSc Information Systems (Uppsala University)
 
 License: MIT
